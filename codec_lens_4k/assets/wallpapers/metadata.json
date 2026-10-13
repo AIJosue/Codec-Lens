@@ -1,0 +1,46 @@
+{
+  "title": "Bing Daily Wallpaper",
+  "copyright": "Generated fallback wallpaper",
+  "source": {
+    "api": "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US",
+    "image": "offline-generated",
+    "fetchedAt": "2026-10-13T21:15:51.572222+00:00"
+  },
+  "formats": {
+    "jpg": {
+      "asset": "assets/wallpapers/bing_latest.jpg",
+      "bytes": 414444,
+      "compressionSavingsPercent": -185.0,
+      "decodeMs": 23.85,
+      "resolution": "3840x2160"
+    },
+    "png": {
+      "asset": "assets/wallpapers/bing_latest.png",
+      "bytes": 145420,
+      "compressionSavingsPercent": 0.0,
+      "decodeMs": 59.35,
+      "resolution": "3840x2160"
+    },
+    "webp": {
+      "asset": "assets/wallpapers/bing_latest.webp",
+      "bytes": 126772,
+      "compressionSavingsPercent": 12.82,
+      "decodeMs": 53.77,
+      "resolution": "3840x2160"
+    },
+    "avif": {
+      "asset": "assets/wallpapers/bing_latest.avif",
+      "bytes": 32720,
+      "compressionSavingsPercent": 77.5,
+      "decodeMs": 49.28,
+      "resolution": "3840x2160"
+    },
+    "jxl": {
+      "asset": "assets/wallpapers/bing_latest.jxl",
+      "bytes": 96358,
+      "compressionSavingsPercent": 33.74,
+      "decodeMs": 170.49,
+      "resolution": "3840x2160"
+    }
+  }
+}
