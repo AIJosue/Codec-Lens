@@ -3,8 +3,6 @@
 > **High-Fidelity Visual Codec Comparator: AVIF vs. JPEG, PNG, GIF, and JPEG XL**
 > Crafted with Flutter Web, visionOS/macOS glassmorphic bento design, and smooth 60fps molded liquid split comparator.
 
-🌐 **Live Demo**: [https://aijosue.github.io/Codec-Lens-/](https://aijosue.github.io/Codec-Lens-/)
-
 ---
 
 ## 🌟 Highlights
