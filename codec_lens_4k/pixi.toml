@@ -1,0 +1,16 @@
+[workspace]
+authors = ["AIJosue <jvalladares9@student.ccc.edu>"]
+channels = ["conda-forge"]
+name = "codec_lens_4k"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+libjxl = ">=0.12.0,<0.13"
+libavif = ">=1.4.2,<2"
+ffmpeg = ">=9.0.2,<10"
+imagemagick = ">=7.1.2_31,<8"
+gifsicle = ">=1.97,<2"
+libjxl-tools = ">=0.12.0,<0.13"

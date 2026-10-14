@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+build/*
+!build/web/
+.flutter-plugins
+.flutter-plugins-dependencies
+# pixi environments
+.pixi/*
+!.pixi/config.toml

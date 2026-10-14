@@ -1,0 +1,10 @@
+{
+  "name": "CodecLens: Netflix AVIF Visual Comparator",
+  "short_name": "CodecLens",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07090E",
+  "theme_color": "#00E5FF",
+  "description": "Apple visionOS/macOS Glassmorphic Netflix AVIF Test Suite Codec Visual Comparator (.avif, .png) with 60fps MoldedWaveClipper.",
+  "orientation": "any"
+}

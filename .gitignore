@@ -1,0 +1,4 @@
+# Only ignore the root temporary symlink directory
+/testFiles/
+.DS_Store
+*.tmp
