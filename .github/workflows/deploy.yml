@@ -34,7 +34,7 @@ jobs:
 
       - name: Build Flutter Web
         working-directory: codec_lens_4k
-        run: flutter build web --release --base-href "/Codec-Lens-/" --no-tree-shake-icons
+        run: flutter build web --release --base-href "/Codec-Lens/" --no-tree-shake-icons
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
